@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Waste Management Platform  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview  
+This application is built using **React.js** with **styled-components** for styling. The design is **100% responsive** across all devices, ensuring a seamless user experience.  
 
-## Available Scripts
+## Data Source  
+The data used in this platform is sourced from the provided link and has been **modified** according to the project requirements.  
 
-In the project directory, you can run:
+## UI/UX Improvements  
 
-### `npm start`
+### Thought Process  
+Since this platform deals with **waste collection**, it naturally falls under the category of **sustainability and environmental consciousness**. The goal was to create a **user experience that feels natural and eco-friendly** through design and color choices.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Enhancements  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Nature-Inspired Colors** 🌿: The UI uses vibrant, nature-friendly colors that **symbolize sustainability and an eco-conscious approach**.  
+- **Clear Skip Information** 🗑️: Each skip now includes details about the **types of waste it accepts**, helping users make informed decisions.  
+- **Sustainability Messaging** 🌎: Each skip highlights its **environmental benefits**, such as _"Saves 2 trees worth of CO₂"_, subtly motivating users while reinforcing the company’s commitment to sustainability.  
+- **Simple, Elegant, and Responsive Design** 🎨: The layout is **minimalist and intuitive**, ensuring that customers do not face any confusion while using the platform.  
 
-### `npm test`
+## Features  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+✅ **React.js for frontend development**  
+✅ **Styled-components for modern styling**  
+✅ **Fully responsive design for all devices**  
+✅ **User-friendly interface with clear information**  
+✅ **Eco-conscious design approach**  
 
-### `npm run build`
+## How to Run Locally  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/mohnishdev/waste-management-platform.git
+   cd waste-management-platform
